@@ -1,0 +1,11 @@
+.your-bot-army {
+  margin-top: 20px;
+}
+
+.bot-card button {
+  background-color: #dc3545;
+}
+
+.bot-card button:hover {
+  background-color: #c82333;
+}
